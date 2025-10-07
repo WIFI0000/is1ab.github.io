@@ -47,12 +47,19 @@ export function Publication() {
                 <ol>
                     <li>
                         <Author>
+                            Sheng-Shan Chen, Kai-Siang Cao, Chung-Kuan Chen, and <Professor star />
+                        </Author>
+                        <Title title="Retrieval-Augmented Generation for Identifying ATT&CK Technique" />
+                        Accepted by <Journal name="Communications of the CCISA" />, vol. 31, no. 3, pp. 20-39, August 2025.
+                    </li>
+                    <li>
+                        <Author>
                             <Professor star />, Sheng-Shan Chen, and Ya-Han Ho
                         </Author>
                         <Title title="De-Identification of Open-Source Intelligence using Finetuned LLaMA-3" />
                         Accepted by <Journal name="High-Confidence Computing" />, September 2025.
-                        <AlternativeJournal name="[2025, JCR IF:- ]"></AlternativeJournal>
-                        <AlternativeJournal name="[2025, SJR: - ]"></AlternativeJournal>
+                        <AlternativeJournal name="[2024, JCR IF: 3.0,  Computer Science, Information Systems, Q2]"></AlternativeJournal>
+                        <AlternativeJournal name="[2024, SJR: 0.894, Computer Networks and Communications, Q1]"></AlternativeJournal>
                         <SCI />
                     </li>
                     <li>
@@ -61,8 +68,8 @@ export function Publication() {
                         </Author>
                         <Title title="EnhanceCTI: An Enhanced Semantic Filtering and Feature Extraction Framework for Industry-Specific Cyber Threat Intelligence" />
                         Accepted by <Journal name="Computers & Security" />, August 2025. 
-                        <AlternativeJournal name="[2025, JCR IF:- ]"></AlternativeJournal>
-                        <AlternativeJournal name="[2025, SJR: - ]"></AlternativeJournal>
+                        <AlternativeJournal name="[2024, JCR IF: 5.4, Computer Science, Information Systems, Q1]"></AlternativeJournal>
+                        <AlternativeJournal name="[2024, SJR: 1.445, Computer Science, Q1]"></AlternativeJournal>
                         <SCI />
                     </li>
                     <li>
@@ -79,7 +86,7 @@ export function Publication() {
                         <Title title="Perioperative Application of Chatbots: A Systematic Review and Meta-Analysis," />
                         <Journal name="BMJ Health & Care Informatics" />, vol. 30, no. 1, e100985, July 2024.
                         <AlternativeJournal name="[2024, JCR IF: 4.4, HEALTH CARE SCIENCES & SERVICES, 23/185, Q1]"></AlternativeJournal>
-                        <AlternativeJournal name="[2024, SJR: 1.263, COMPUTER SCIENCE APPLICATIONS, Q1]"></AlternativeJournal>
+                        <AlternativeJournal name="[2024, SJR: 1.263, Computer Science applications, Q1]"></AlternativeJournal>
                         <SCI />
                         <CoFirstAuther />
                     </li>
@@ -90,7 +97,7 @@ export function Publication() {
                         <Title title="Patient Decision Aids for Breast Cancer Reconstruction: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials," />
                         <Journal name="Plastic and Reconstructive Surgery" />, vol. 154, no. 5, pp. 929-940, January 2024. 
                         <AlternativeJournal name="[2024, JCR IF: 3.4, SURGERY, 41/312, Q1]"></AlternativeJournal>
-                        <AlternativeJournal name="[2024, SJR: 1.222, SURGERY, Q1]"></AlternativeJournal>
+                        <AlternativeJournal name="[2024, SJR: 1.222, Surgery, Q1]"></AlternativeJournal>
                         <SCI />
                         <CoFirstAuther />
                     </li>
@@ -209,6 +216,13 @@ export function Publication() {
                 <ol>
                     <li>
                         <Author>
+                            Yi-Hsiang Chen, Feng-Rui Liao, Jun-Cheng Zhang, Zheng-Hao Huang, and <Professor star />
+                        </Author>
+                        <Title title="Enhancing Small Language Models in Agentic Pipelines with Prompt Engineering and Fine-Tuning" />
+                        Accepted by <Journal name="Taiwan Academic Network Conference (TANET 2025)" />, September 2025.
+                    </li>
+                    <li>
+                        <Author>
                             Sheng-Shan Chen, Yi-Xuan Wu, Ying-Xuan Ho, Pang-Po Cheng, and <Professor star />
                         </Author>
                         <Title title="RANsomCheck: A CNN-Transformer Model for Malware Detection Based on API Call Sequences" />
@@ -271,10 +285,10 @@ export function Publication() {
                 <ol>
                     <li>
                         <Author>
-                            Sheng-Shan Chen, Kai-Siang Cao, Chung-Kuan Chen, and <Professor star />
+                            Sheng-Shan Chen, Po-Yao Yen, Yu-Nung Cheng, and <Professor star />
                         </Author>
-                        <Title title="Retrieval-Augmented Generation for Identifying ATT&CK Technique" />
-                        Submitted to <Journal name="Communications of the CCISA" />, September 2025.
+                        <Title title="Applying Machine Learning for EDoS Attack Detection and Cost Analysis in Cloud Microservices" />
+                        Submitted to <Journal name="Digital Threats: Research and Practice" />, September 2025.
                     </li>
                     <li>
                         <Author>
